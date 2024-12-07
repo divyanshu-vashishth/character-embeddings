@@ -18,7 +18,8 @@
 - Character 'त' embedding shape: (1, 100)
 - Character 'े' embedding shape: (1, 100)
 
-### Visualization saved as 'embeddings_visualization.png'
+### Visualization saved as '/embeddings_visualization.png'
+<img src="./embeddings_visualization.png" alt='visualization'/>
 ```
 
 
